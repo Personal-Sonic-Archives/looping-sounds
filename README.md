@@ -1,2 +1,2 @@
 # looping-sounds
-A simple website for looping an audio file
+A simple website for looping an audio file. I made this using ChatGPT, so it is very bare bones, so bells and whistles yet...
